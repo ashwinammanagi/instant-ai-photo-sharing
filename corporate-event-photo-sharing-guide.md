@@ -32,7 +32,7 @@ There are zero app downloads required to participate in the gallery experience. 
 
 Guests simply visit a secure custom link or scan a QR code placed on their tables. This instant access keeps the momentum of your event going long after the closing remarks are finished.
 
-We have previously explored how to [Simplify Corporate Event Photo Sharing](https://snapseek/blog/snapseek-for-event-photography). The foundational element of that specific strategy is making the initial digital entry point completely frictionless.
+We have previously explored how to [Simplify Corporate Event Photo Sharing](https://snapseek.app/blog/snapseek-for-event-photography). The foundational element of that specific strategy is making the initial digital entry point completely frictionless.
 
 ## Key Features That Redefine the Guest Experience
 
@@ -48,7 +48,7 @@ Guests take a quick live selfie or upload a standard photo from their camera rol
 
 This immediately eliminates hours of manual sorting and tagging for your dedicated photography team. It provides a magical, instant reward for your attendees right when they want it most.
 
-While we often discuss the [Best Face Recognition Photo Sharing App for Weddings](https://snapseek/blog/best-wedding-photo-sharing-app), the corporate use case requires even faster retrieval times. SnapSeek delivers this processing speed flawlessly every single time.
+While we often discuss the [Best Face Recognition Photo Sharing App for Weddings](https://snapseek.app/blog/best-wedding-photo-sharing-app), the corporate use case requires even faster retrieval times. SnapSeek delivers this processing speed flawlessly every single time.
 
 ### Multi-Face Search for Group Shots
 
@@ -146,7 +146,7 @@ Step three is securely uploading the raw, high-resolution assets. As your profes
 
 Guests who opt-in receive automated, real-time notifications on their devices. The system sends an instant email alert the very moment a new photo matching their face is fully processed and notifications are triggered.
 
-This intelligent workflow guarantees that your attendees receive their visual content exactly when their emotional excitement is highest. If you want to learn more about automated image retrieval, read our guide on [AI Selfie Search: Zero-Click Photo Retrieval for Events](https://snapseek/blog/ai-selfie-search-zero-click-retrieval).
+This intelligent workflow guarantees that your attendees receive their visual content exactly when their emotional excitement is highest. If you want to learn more about automated image retrieval, read our guide on [AI Selfie Search: Zero-Click Photo Retrieval for Events](https://snapseek.app/blog/ai-selfie-search-zero-click-retrieval).
 
 ## The Economics of Smart Photo Distribution
 
